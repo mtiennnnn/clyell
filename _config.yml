@@ -1,7 +1,7 @@
 # Site settings
 title: "mtiennnnn's Blog"
 bye_message: "Bye!"
-baseurl: "/mtiennnnn/"
+baseurl: "/"
 url: "https://mtiennnnn.github.io"
 disqus: mtiennnnn
 
