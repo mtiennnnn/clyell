@@ -11,7 +11,7 @@
     printf(<a href="https://www.facebook.com/m.tiennnnn" target="_blank"><span class="string">"https://facebook.com/<span class="reserved">%s\n</span>"</span></a>,facebook);
     </p>
     <p>
-    printf(<a href="mailto:manhtien1303@gmail.com" target="_blank"><span class="string">"https://gmail.com/<span class="reserved">%s\n</span>"</span></a>,gmail);
+    printf(<span class="string">"<span class="reserved">%s\x40</span><a href="mailto:manhtien1303@gmail.com" target="_blank"><span class="string">"gmail/<span class="reserved">\x2e\\\b</span>"</span></a>,gmail);
     </p>
     <p>
     printf(<span class="string">"<span class="reserved">%s\x40</span>{{ site.mail.domain }}<span class="reserved">\x2e\\\b</span>{{ site.mail.ext }}<span class="reserved">\n</span>"</span>,nick);
