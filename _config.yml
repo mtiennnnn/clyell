@@ -1,22 +1,22 @@
 # Site settings
-title: "gjuniioor"
-bye_message: "Thx!"
-baseurl: "/clyell/"
-url: "https://gjuniioor.github.io"
-disqus: gjuniioor
+title: "mtiennnnn's Blog"
+bye_message: "Bye!"
+baseurl: "/mtiennnnn/"
+url: "https://mtiennnnn.github.io"
+disqus: mtiennnnn
 
 # Header settings
-nick: "gjuniioor"
+nick: "mtiennnnn"
 mail:
     domain: "protonmail"
     ext: "ch"
 source_code:
     server: "github.com"
-    nick: "gjuniioor"
+    nick: "mtiennnnn"
 blog:
     server: "wordpress.com"
-    nick: "gjuniioor"
-fingerprint_key: "5E12 9ABC C2A9 564B C048  2DF9 D327 0D10 BC71 CF75"
+    nick: "mtiennnnn"
+fingerprint_key: "78 69 6e 20 63 68 61 6f 20 63 61 63 20 62 61 6e"
 
 # Build settings
 markdown: kramdown
