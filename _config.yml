@@ -1,7 +1,7 @@
 # Site settings
 title: "mtiennnnn"
 bye_message: "Bye!"
-baseurl: "/mtiennnnn"
+baseurl: "/mtiennnnn/"
 url: "https://mtiennnnn.github.io"
 disqus: mtiennnnn
 
@@ -13,4 +13,4 @@ source_code:
 
 # Build settings
 markdown: kramdown
-permalink: /:categories/:title
+permalink: /:categories/:title/
