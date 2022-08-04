@@ -7,14 +7,8 @@ disqus: mtiennnnn
 
 # Header settings
 nick: "mtiennnnn"
-mail:
-    domain: "protonmail"
-    ext: "ch"
 source_code:
     server: "github.com"
-    nick: "mtiennnnn"
-blog:
-    server: "wordpress.com"
     nick: "mtiennnnn"
 fingerprint_key: 
 
