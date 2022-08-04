@@ -16,7 +16,7 @@ source_code:
 blog:
     server: "wordpress.com"
     nick: "mtiennnnn"
-fingerprint_key: "78 69 6e 20 63 68 61 6f 20 63 61 63 20 62 61 6e"
+fingerprint_key: 
 
 # Build settings
 markdown: kramdown
