@@ -1,6 +1,6 @@
 ---
 layout: post
-title:	"angstromCTF - Caasio"
+title:	"angstromCTF 2022 - Caasio"
 date:	2022-05-06 08:20:21
 categories:
     - blog
